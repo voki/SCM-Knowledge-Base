@@ -7,12 +7,12 @@ Gerrit Administration Guide
 .. toctree::
     :maxdepth: 2
 
-    Overview
-    Infrastructure
-    Installation
-    Configuration
-    Middleware
-    Database
-    Access_Rights
-    Scaling
-    Resources
+    overview
+    infrastructure
+    installation
+    configuration
+    middleware
+    database
+    access_rights
+    scaling
+    resources
