@@ -1,4 +1,5 @@
-gag
-===
+SCM Knowledge Base
+==================
 
-Gerrit Administration Guide
+Software Configuration Managemetn Knowledge Base
+
