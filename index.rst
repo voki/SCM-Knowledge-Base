@@ -1,13 +1,9 @@
 .. image:: images/scmforge/logo.png
    :align: right
 
-===========================
-SCM & DevOps Knowledge Base
-===========================
-
------------------------------------------------------------
-Software Configuration Management and DevOps Knowledge Base 
------------------------------------------------------------
+============
+DevOps Bible
+============
 
 This knowledge base includes topics of:
 
