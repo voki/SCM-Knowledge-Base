@@ -1,4 +1,4 @@
-.. image:: ./images/scmfoge/logo.png
+.. image:: images/scmforge/logo.png
    :align: right
 
 ===========================
