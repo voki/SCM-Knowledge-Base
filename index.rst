@@ -1,4 +1,4 @@
-.. image:: ../images/logos/oscar.png
+.. image:: ../images/scmfoge/logo.png
    :align: right
 
 ===========================
