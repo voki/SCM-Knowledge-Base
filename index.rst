@@ -28,34 +28,85 @@ This knowledge base includes topics of:
 Contents
 --------
 
-* Software Configuration Management
- * Code Management
- * Build Management
- * Change Control
- * Environment Configuration
- * Release Management
- * Deployment Management
- * Continuous Integration
- * Continuous Delivery
- * CMS/CMDB
+Software Configuration Management
+=================================
 
-* DevOps
- * Remote Execution
- * Automation
- * Testing
- * Monitoring
- * Agile Methodologies
-* Other SCM Resources
- * Books
- * Web sites
- * Movies
- * Magazines
-* Education
- * Certifications & Trainings
- * SCM Failure Examples
-* SCM Events
-* SCM Fun
-* SCM Tips&Tricks
-* Python
-* FAQ
-* Linux/Unix
+.. toctree::
+   :maxdepth: 1
+
+   scm/code_management
+   scm/build_management
+   scm/change_control
+   scm/environment_configuration
+   scm/release_management
+   scm/deployment_management
+   scm/continuous_integration
+   scm/continuous_delivery
+   scm/cmdb
+
+DevOps
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   devops/remote_execution
+   devops/automation
+   devops/testing
+   devops/monitoring
+   devops/agile_methodologies
+
+Other SCM Resources
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   other/books
+   other/web_sites
+   other/video
+   other/magazines
+   
+Education
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   education/certifications_trainings
+   education/failure_examples
+
+Events
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+  events/upcoming
+  events/passed
+
+Python
+=================================
+
+.. toctree::
+   :maxdepth: 1
+
+   python/propaganda
+   python/django
+
+Linux
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   linux/ubuntu
+
+FAQ
+=================================
+
+.. toctree::
+   :maxdepth: 1
+   
+   faq/contact
+  
