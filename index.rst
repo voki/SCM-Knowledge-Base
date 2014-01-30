@@ -1,9 +1,9 @@
 .. image:: images/scmforge/logo.png
    :align: right
 
-===========================
-SCM & DevOps Knowledge Base
-===========================
+==================
+SCM Knowledge Base
+==================
 
 ---------------------------
 SCM & DevOps Knowledge Base
