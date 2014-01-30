@@ -29,29 +29,30 @@ Contents
 --------
 
 * Software Configuration Management
-** Code Management
-** Build Management
-** Change Control
-** Environment Configuration
-** Release Management
-** Deployment Management
-** Continuous Integration
-** Continuous Delivery
-** CMS/CMDB
+ * Code Management
+ * Build Management
+ * Change Control
+ * Environment Configuration
+ * Release Management
+ * Deployment Management
+ * Continuous Integration
+ * Continuous Delivery
+ * CMS/CMDB
+
 * DevOps
-** Remote Execution
-** Automation
-** Testing
-** Monitoring
-** Agile Methodologies
+ * Remote Execution
+ * Automation
+ * Testing
+ * Monitoring
+ * Agile Methodologies
 * Other SCM Resources
-** Books
-** Web sites
-** Movies
-** Magazines
+ * Books
+ * Web sites
+ * Movies
+ * Magazines
 * Education
-** Certifications & Trainings
-** SCM Failure Examples
+ * Certifications & Trainings
+ * SCM Failure Examples
 * SCM Events
 * SCM Fun
 * SCM Tips&Tricks
