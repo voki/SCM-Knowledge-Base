@@ -5,9 +5,9 @@
 SCM Knowledge Base
 ==================
 
----------------------------------------------------------
-Software Configuration Management & DevOps Knowledge Base
----------------------------------------------------------
+---------------------------
+SCM & DevOps Knowledge Base
+---------------------------
 
 This knowledge base includes topics of:
 
