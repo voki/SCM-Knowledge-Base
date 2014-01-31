@@ -5,7 +5,7 @@ Code Management
 Best Practices
 --------------
 
-1. SBuild an abstract Layer between your Version Control System system and the entire SCM Toolkit.
+1. Build an abstract Layer between your Version Control System system and the entire SCM Toolkit.
 2. Atomicity, so every operation is atomic, 0 or 1, True or False, there are no states in between.
 3. Avoid storing different types of data than the actual source code (no binfiles, media, etc..).
 
